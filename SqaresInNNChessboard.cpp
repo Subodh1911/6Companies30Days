@@ -28,4 +28,4 @@ int main() {
         cout << ob.squaresInChessBoard(N) << endl;
     }
     return 0;
-}  // } Driver Code Ends
+}  // } Driver Code End
